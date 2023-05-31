@@ -1,0 +1,7 @@
+ theme: jekyll-theme-slate
+title: This is the personal homepage of Joanne Loh, a Malaysian student in Hokkaido
+description: I have a cute pup named Zelda!
+plugins:
+  - jemoji
+url: "https://JoanneLoh0330.github.io/;
+markdown: kramdown 
